@@ -34,7 +34,7 @@ sympy==1.13.3
 tiktoken==0.7.0
 torch==2.4.1
 tqdm==4.66.6
-triton==3.1.0
+triton==3.0.0
 typing-extensions==4.12.2
 urllib3==2.2.3
 websockets==13.1
